@@ -6,6 +6,48 @@ How much? ca. 2,5K tokens.
 First release? 2018
 Updates? Updated file in April and August 2019, with corrections by Toon Van Hal and Alek Keersmaekers.
  -->
+<annotator>
+  <short>De Schutter, A.</short>
+</annotator>
+<annotator>
+  <short>Knapen, C.</short>
+</annotator>
+<annotator>
+  <short>Weets, C.</short>
+</annotator>
+<annotator>
+  <short>Van Nunen, E.</short>
+</annotator>
+<annotator>
+  <short>De Smet, Isabeau</short>
+</annotator>
+<annotator>
+  <short>Valadou, M.</short>
+</annotator>
+<annotator>
+  <short>Van Bever, L.</short>
+</annotator>
+<annotator>
+  <short>De Backer, Olympe</short>
+</annotator>
+<annotator>
+  <short>Keupers, S.</short>
+</annotator>
+<annotator>
+  <short>Vangenechten, Thomas</short>
+</annotator>
+<annotator>
+  <short>Valgaeren, Thomas</short>
+</annotator>
+<annotator>
+  <short>Nelis, Tilke</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
 <sentence id='1' document_id='0062-020' Author='Lucianus' subdoc='1-40' corrupt=''>
 <word ref='Leuven|0062-020|1|1' id='1' form='ὁ' lemma='ὁ' postag='l-s---mn-' relation='ATR' head='3' sem=''/>
 <word ref='Leuven|0062-020|1|2' id='2' form='μὲν' lemma='μέν' postag='d--------' relation='AuxY' head='3' sem=''/>

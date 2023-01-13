@@ -13,6 +13,12 @@
 
 **First release?** 2019
 -->
+<annotator>
+  <short>Sanderijn Gijbels</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
 
 <sentence id='1' document_id='0019-008' Author='Aristophanes' subdoc='' corrupt=''>
 <word ref='Leuven|0019-008|1|1' id='1' form='ὦ' lemma='ὦ' postag='i--------' relation='AuxZ' head='2' sem=''/>

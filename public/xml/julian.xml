@@ -12,7 +12,15 @@
 
 **First release?** 2019
 -->
-
+<annotator>
+  <short>Jonas Roose</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
 
 <sentence id='1' document_id='2003-001' Author='Julian' subdoc='' corrupt=''>
 <word ref='Leuven|2003-001|1|1' id='1' form='πάλαι' lemma='πάλαι' postag='d--------' relation='ADV' head='3' sem=''/>

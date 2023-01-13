@@ -10,7 +10,15 @@
 
 **First release?** 2020
 -->
-
+<annotator>
+  <short>Martijn Windelinckx</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
 <sentence id='1' document_id='0559-002' Author='Heron' subdoc='1,1000000000000001' corrupt=''>
 <word ref='Leuven|0559-002|1|1' id='1' form='αὐτοματοποιητικῆς' lemma='αὐτοματοποιητική' postag='n-s---fg-' relation='ATR' head='2' gloss='art of making marionettes' sem=''/>
 <word ref='Leuven|0559-002|1|2' id='2' form='πραγματείας' lemma='πραγματεία' postag='n-s---fg-' relation='SBJ' head='7' gloss='prosecution of business, diligent study' sem='theme'/>

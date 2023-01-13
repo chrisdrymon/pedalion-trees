@@ -11,7 +11,9 @@
 
 **How much?** ca. 700 tokens.
 -->
-
+<annotator>
+  <short>Yoran Joosten</short>
+</annotator>
 <sentence id='1' document_id='0561-001' Author='Longus' subdoc='' corrupt=''>
 <word ref='Leuven|0561-001|1|1' id='1' form='πόλις' lemma='πόλις' postag='n-s---fn-' relation='PNOM' head='2' sem=''/>
 <word ref='Leuven|0561-001|1|2' id='2' form='ἐστί' lemma='εἰμί' postag='v3spia---' relation='PRED' head='0' sem=''/>

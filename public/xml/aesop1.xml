@@ -11,6 +11,12 @@
 
 **First release?** 2019
 -->
+<annotator>
+  <short>Colin Swaelens</short>
+</annotator>
+<annotator>
+  <short>Eva Uffing</short>
+</annotator>
 
 <sentence id='1' document_id='0096-00#' Author='Aesop' subdoc='' corrupt=''>
 <word ref='Leuven|0096-00#|1|1' id='1' form='τῷ' lemma='ὁ' postag='l-s---md-' relation='ATR' head='2' sem=''/>

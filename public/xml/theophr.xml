@@ -10,7 +10,9 @@
 
 **First release?** 2020
 -->
-
+<annotator>
+  <short>Sanderijn Gijbels</short>
+</annotator>
 <sentence id='1' document_id='0093-009' Author='Theophrastus' subdoc=',1' corrupt=''>
 <word ref='Leuven|0093-009|1|1' id='1' form='ἤδη' lemma='ἤδη' postag='d--------' relation='ADV' head='9' gloss='' sem=''/>
 <word ref='Leuven|0093-009|1|2' id='2' form='μὲν' lemma='μέν' postag='d--------' relation='AuxY' head='9' gloss='' sem=''/>

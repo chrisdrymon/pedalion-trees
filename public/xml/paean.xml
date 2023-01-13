@@ -13,7 +13,9 @@
 
 **First release?** 2019
 -->
-
+<annotator>
+  <short>Yoran Joosten</short>
+</annotator>
 <sentence id='1' document_id='PaeanBrev' Author='' subdoc='entire document' corrupt=''>
 <word ref='Leuven|PaeanBrev|1|1' id='1' form='τῆς' lemma='ὁ' postag='l-s---fg-' relation='ATR' head='3' sem=''/>
 <word ref='Leuven|PaeanBrev|1|2' id='2' form='Ῥωμαϊκῆς' lemma='Ῥωμαῖος' postag='a-s---fg-' relation='ATR' head='3' sem=''/>

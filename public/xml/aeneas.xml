@@ -10,6 +10,9 @@
 
 **First release?** 2020
 -->
+<annotator>
+  <short>Jordi Lenaerts</short>
+</annotator>
 
 <sentence id='1' document_id='0058-001' Author='Aeneas' subdoc=',1' corrupt=''>
 <word ref='Leuven|0058-001|1|1' id='1' form='ὅσοις' lemma='ὅσος' postag='p-p---md-' relation='OBJ' head='14' gloss='' sem=''/>

@@ -12,7 +12,18 @@
 
 **First release?** 2019
 -->
-
+<annotator>
+  <short>Jonas Roose</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
+<annotator>
+  <short>Kraft</short>
+</annotator>
 <sentence id='1' document_id='Genesis' Author='' subdoc='1' corrupt=''>
 <word ref='Leuven|Genesis|1|1' id='1' form='ἐν' lemma='ἐν' postag='r--------' relation='AuxP' head='3' sem=''/>
 <word ref='Leuven|Genesis|1|2' id='2' form='ἀρχῇ' lemma='ἀρχή' postag='n-s---fd-' relation='ADV' head='1' sem=''/>

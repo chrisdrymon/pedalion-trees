@@ -11,7 +11,12 @@
 
 **First release?** 2019
 -->
-
+<annotator>
+  <short>Louis Verreth</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
 <sentence id='1' document_id='0260-x' Author='Semonides' subdoc='' corrupt=''>
 <word ref='Leuven|0260-x|1|1' id='1' form='χωρὶς' lemma='χωρίς' postag='r--------' relation='AuxP' head='4' sem=''/>
 <word ref='Leuven|0260-x|1|2' id='2' form='γυναικὸς' lemma='γυνή' postag='n-s---fg-' relation='ADV' head='1' sem=''/>

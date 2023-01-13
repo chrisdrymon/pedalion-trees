@@ -8,7 +8,12 @@ Who? Annotated by Sanderijn Gijbels, corrected by Toon Van Hal. Based on a prepa
 How much? ca. 1300 tokens.
 First release? 2019
 -->
-
+<annotator>
+  <short>Sanderijn Gijbels</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
 <sentence id='1' document_id='0062-014' subdoc='entire text'>
 <word ref='Leuven|0062-014|1|1' id='1' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' head='11' sem=''/>
 <word ref='Leuven|0062-014|1|2' id='2' form='ἄρχοντος' lemma='ἄρχων' postag='n-s---mg-' relation='ADV' head='1' sem='time'/>

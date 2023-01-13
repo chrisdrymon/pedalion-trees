@@ -12,7 +12,18 @@
 
 **First release?** 2019
 -->
-
+<annotator>
+  <short>Sanderijn Gijbels</short>
+</annotator>
+<annotator>
+  <short>Mathieu Cuijpers</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
 
 <sentence id='1' document_id='0032-002' Author='Xenophon' subdoc='' corrupt=''>
 <word ref='Leuven|0032-002|1|1' id='1' form='πολλάκις' lemma='πολλάκις' postag='d--------' relation='ADV' head='2' sem='time'/>

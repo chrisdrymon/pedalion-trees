@@ -11,7 +11,12 @@
 **First release?** 2020
 -->
 
-
+<annotator>
+  <short>Yoran Joosten</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
 <sentence id='1' document_id='0544-002' Author='Sextus Empiricus' subdoc='Pr.1' corrupt=''>
 <word ref='Leuven|0544-002|1|1' id='1' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' head='7' gloss='' sem=''/>
 <word ref='Leuven|0544-002|1|2' id='2' form='πρὸς' lemma='πρός' postag='r--------' relation='AuxP' head='7' gloss='' sem=''/>

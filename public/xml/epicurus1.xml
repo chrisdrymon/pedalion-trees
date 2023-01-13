@@ -12,8 +12,15 @@
 
 **First release?** 2019
 -->
-
-
+<annotator>
+  <short>Jonas Roose</short>
+</annotator>
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
 <sentence id='1' document_id='0537-012' Author='Epicurus' subdoc='' corrupt=''>
 <word ref='Leuven|0537-012|1|1' id='1' form='”' lemma='”' postag='u--------' relation='AuxG' head='0' sem=''/>
 <word ref='Leuven|0537-012|1|2' id='2' form='Ἐπίκουρος' lemma='Ἐπίκουρος' postag='n-s---mn-' relation='SBJ' head='6' sem=''/>

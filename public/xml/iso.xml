@@ -11,7 +11,9 @@
 
 **How much?** ca. 500 tokens.
 -->
-
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
 <sentence id='1' document_id='0010-020' Author='Isocrates' subdoc='' corrupt=''>
 <word ref='Leuven|0010-020|1|1' id='1' form='ἐγὼ' lemma='ἐγώ' postag='p1s---cn-' relation='SBJ' head='2' sem=''/>
 <word ref='Leuven|0010-020|1|2' id='2' form='διελέχθην' lemma='διαλέγω' postag='v1saip---' relation='PRED_CO' head='24' sem=''/>

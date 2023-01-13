@@ -10,7 +10,21 @@
 
 **First release?** 2020
 -->
-
+<annotator>
+  <short>Zoë De Bal</short>
+</annotator>
+<annotator>
+  <short>Stijn Houthoofd</short>
+</annotator>
+<annotator>
+  <short>Merel op 't Roodt</short>
+</annotator>
+<annotator>
+  <short>Manou Vermeire</short>
+</annotator>
+<annotator>
+  <short>Martijn Windelinckx</short>
+</annotator>
 <sentence id='1' document_id='0019-001' Author='Aristophanes' subdoc='1' corrupt=''>
 <word ref='Leuven|0019-001|1|1' id='1' form='ὅσα' lemma='ὅσος' postag='p-p---na-' relation='ADV' head='3' gloss='1: zo groot als' sem='degree/measure'/>
 <word ref='Leuven|0019-001|1|2' id='2' form='δὴ' lemma='δή' postag='d--------' relation='AuxY' head='3' gloss='1: al, reeds | dus, dan toch' sem=''/>

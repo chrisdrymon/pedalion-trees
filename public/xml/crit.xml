@@ -10,6 +10,12 @@
 
 **First release?** 2020
 -->
+<annotator>
+  <short>Yoran Joosten</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
 <sentence id='1' document_id='0059-003' Author='Plato' subdoc='43' corrupt=''>
 <word ref='Leuven|0059-003|1|1' id='1' form='τί' lemma='τίς' postag='p-s---na-' relation='ADV' head='3' gloss='1: wie?, welke?' sem='oorzaak/reden'/>
 <word ref='Leuven|0059-003|1|2' id='2' form='τηνικάδε' lemma='τηνικάδε' postag='d--------' relation='ADV' head='3' gloss='at this time, then' sem=''/>

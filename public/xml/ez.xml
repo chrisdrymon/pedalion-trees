@@ -10,7 +10,9 @@
 
 **First release?** 2020
 -->
-
+<annotator>
+  <short>Martijn Windelinckx</short>
+</annotator>
 <sentence id='1' document_id='0343-001' Author='Ezechiel' subdoc='1' corrupt=''>
 <word ref='Leuven|0343-001|1|1' id='1' form='ἀφ’' lemma='ἀπό' postag='r--------' relation='AuxP' head='16' gloss='1: van, vanaf; sinds' sem=''/>
 <word ref='Leuven|0343-001|1|2' id='2' form='οὗ' lemma='ὅς' postag='p-s---ng-' relation='ADV' head='1' gloss='1: die, dat' sem='time'/>

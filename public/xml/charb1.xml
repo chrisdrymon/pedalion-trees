@@ -10,6 +10,36 @@
 
 **First release?** 2020
 -->
+<annotator>
+  <short>Josefien Branson</short>
+</annotator>
+<annotator>
+  <short>Eline Brink</short>
+</annotator>
+<annotator>
+  <short>Eline De Vocht</short>
+</annotator>
+<annotator>
+  <short>Ruul Hellemans</short>
+</annotator>
+<annotator>
+  <short>Hegeleen Kissel</short>
+</annotator>
+<annotator>
+  <short>Hélène Trap</short>
+</annotator>
+<annotator>
+  <short>Courtney Van de Mosselaer</short>
+</annotator>
+<annotator>
+  <short>Anneleen Vanden Broecke</short>
+</annotator>
+<annotator>
+  <short>Birthe Verscuren</short>
+</annotator>
+<annotator>
+  <short>Ann-Sophie Vrielynck</short>
+</annotator>
 
 <sentence id='1' document_id='0554-001' Author='Chariton' subdoc='1.1.1' corrupt=''>
 <word ref='Leuven|0554-001|1|1' id='1' form='Χαρίτων' lemma='Χάρις' postag='n-s---mn-' relation='APOS' head='14' gloss='1: gunst | genade' sem=''/>

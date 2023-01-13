@@ -11,7 +11,9 @@
 
 **First release?** 2019
 -->
-
+<annotator>
+  <short>Wouter Mercelis</short>
+</annotator>
 <sentence id='1' document_id='0005-xx' Author='Theocritus' subdoc='1' corrupt=''>	
 <word ref='Leuven|0005-xx|1|1' id='1' form='ἤλυθες' lemma='ἔρχομαι' postag='v2saia---' relation='PRED' head='0' sem=''/>
 <word ref='Leuven|0005-xx|1|2' id='2' form='ὦ' lemma='ὦ' postag='i--------' relation='AuxZ' head='4' sem=''/>

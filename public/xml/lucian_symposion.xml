@@ -5,6 +5,15 @@ Who? Annotated by Yoran Joosten. Based on a preparsed text by Alek Keersmaekers.
 How much? ca. 5,5K tokens.
 First release? 2019
  -->
+<annotator>
+  <short>Yoran Joosten</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
 <sentence id='1' document_id='0062-015' Author='Lucianus' subdoc='1_1' corrupt=''>
 <word ref='Leuven|0062-015|1|1' id='1' form='ποικίλην' lemma='ποικίλος' postag='a-s---fa-' relation='ATR' head='6' sem=''/>
 <word ref='Leuven|0062-015|1|2' id='2' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' sem=''/>

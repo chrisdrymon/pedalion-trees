@@ -8,7 +8,9 @@ Who? Annotated by Alek Keersmaekers
 How much? ca. 11K tokens.
 First release? 2018
 -->
-
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
 <sentence id='1' document_id='Ps-Luc' Author='Pseudo-Lucianus' subdoc='' corrupt=''>
 <word ref='Leuven|Ps-Luc|1|1' id='1' form='ἀπήιειν' lemma='ἄπειμι' postag='v1siia---' relation='PRED' head='0' sem=''/>
 <word ref='Leuven|Ps-Luc|1|2' id='2' form='ποτὲ' lemma='ποτέ' postag='d--------' relation='ADV' head='1' sem=''/>

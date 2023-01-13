@@ -13,7 +13,15 @@
 **First release?** 2019
 -->
 
-
+<annotator>
+  <short>Sanderijn Gijbels</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
 <sentence id='1' document_id='0041-001' Author='Chion' subdoc='' corrupt=''>
 <word ref='Leuven|0041-001|1|1' id='1' form='Χίων' lemma='Χίων' postag='n-s---mn-' relation='SBJ' head='5' sem=''/>
 <word ref='Leuven|0041-001|1|2' id='2' form='Μάτριδι' lemma='Μᾶτρις' postag='n-s---md-' relation='OBJ' head='5' sem='recipient'/>

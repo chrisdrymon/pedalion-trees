@@ -11,7 +11,9 @@
 
 **First release?** 2019
 -->
-
+<annotator>
+  <short>Wouter Mercelis</short>
+</annotator>
 <sentence id='1' document_id='Mimn1' Author='Mimnermus' subdoc='1' corrupt=''>
 <word ref='Leuven|Mimn1|1|1' id='1' form='τίς' lemma='τίς' postag='p-s---cn-' relation='ATR' head='3' sem=''/>
 <word ref='Leuven|Mimn1|1|2' id='2' form='δὲ' lemma='δέ' postag='d--------' relation='AuxY' head='3' sem=''/>

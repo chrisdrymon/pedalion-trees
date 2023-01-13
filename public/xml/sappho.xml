@@ -10,7 +10,9 @@
 
 **First release?** 2020
 -->
-
+<annotator>
+  <short>Yoran Joosten</short>
+</annotator>
 <sentence id='1' document_id='0009-001' Author='Sappho' subdoc='1' corrupt=''>
 <word ref='Leuven|0009-001|1|1' id='1' form='ποικιλόθρον’' lemma='ποικιλόθρονος' postag='a-s---fvp' relation='ATR' head='3' gloss='on richly-worked throne' sem=''/>
 <word ref='Leuven|0009-001|1|2' id='2' form='ἀθανάτ’' lemma='ἀθάνατος' postag='a-s---fvp' relation='ATR' head='3' gloss='1: onsterfelijk' sem=''/>

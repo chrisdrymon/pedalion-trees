@@ -10,7 +10,12 @@
 
 **First release?** 2020
 -->
-
+<annotator>
+  <short>Jonas Roose</short>
+</annotator>
+<annotator>
+  <short>Toon Van Hal</short>
+</annotator>
 <sentence id='1' document_id='0557-001' Author='Epictetus' subdoc='' corrupt=''>
 <word ref='Leuven|0557-001|1|1' id='1' form='τῶν' lemma='ὁ' postag='l-p---fg-' relation='ATR' head='3' gloss='' sem=''/>
 <word ref='Leuven|0557-001|1|2' id='2' form='ἄλλων' lemma='ἄλλος' postag='p-p---fg-' relation='ATR' head='3' gloss='' sem=''/>

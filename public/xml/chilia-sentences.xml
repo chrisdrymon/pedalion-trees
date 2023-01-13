@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <treebank xml:lang="grc" xmlns:saxon="http://saxon.sf.net/" format="aldt" version="1.5">
+<annotator>
+  <short>Alek Keersmaekers</short>
+</annotator>
 <sentence id='1' document_id='0016-001' Author='Herodotus' subdoc='6.96.1' corrupt=''>
 <word ref='PRO2|0016-001|3705|1' id='1' form='ταῦτα' lemma='οὗτος' postag='p-p---na-' relation='OBJ' head='3' gloss='' sem=''/>
 <word ref='PRO2|0016-001|3705|2' id='2' form='δὲ' lemma='δέ' postag='d--------' relation='AuxY' head='8' gloss='' sem=''/>
