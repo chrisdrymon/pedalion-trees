@@ -5883,7 +5883,7 @@
 </sentence>
 <sentence id='522' document_id='0019-008' Author='Aristophanes' subdoc='' corrupt=''>
 <word ref='Leuven|0019-008|522|1' id='1' form='ὡς' lemma='ὡς' postag='d--------' relation='ADV' head='5' sem='manner'/>
-<word ref='Leuven|0019-008|522|2' id='2' form='καὶ' lemma='καί' postag='d---------' relation='AuxZ' head='5' sem=''/>
+<word ref='Leuven|0019-008|522|2' id='2' form='καὶ' lemma='καί' postag='d--------' relation='AuxZ' head='5' sem=''/>
 <word ref='Leuven|0019-008|522|3' id='3' form='στιβαρά' lemma='στιβαρός' postag='a-s---fn-' relation='ATR_CO' head='6' sem=''/>
 <word ref='Leuven|0019-008|522|4' id='4' form='τις' lemma='τις' postag='p-s---cn-' relation='PNOM' head='5' sem=''/>
 <word ref='Leuven|0019-008|522|5' id='5' form='φαίνεται' lemma='φαίνω' postag='v3spie---' relation='PRED' head='0' sem=''/>

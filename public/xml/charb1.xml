@@ -731,7 +731,7 @@
 <word ref='Leuven|0554-001|40|2' id='2' form='ταύτην' lemma='οὗτος' postag='p-s---fa-' relation='ATR' head='4' gloss='1: die (daar)' sem='property'/>
 <word ref='Leuven|0554-001|40|3' id='3' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' head='4' gloss='1: ' sem=''/>
 <word ref='Leuven|0554-001|40|4' id='4' form='ἡμέραν' lemma='ἡμέρα' postag='n-s---fa-' relation='OBJ' head='5' gloss='1: dag' sem='theme'/>
-<word ref='Leuven|0554-001|40|5' id='5' form='ἤγαγον' lemma='ἄγω' postag='v3paia---' relation='PRED' head='0' gloss='1: voeren, brengen, leiden  | (be)drijven, organiseren' sem=''/>
+<word ref='Leuven|0554-001|40|5' id='5' form='ἤγαγον' lemma='ἄγω' postag='v3paia---' relation='PRED' head='0' gloss='1: voeren, brengen, leiden | (be)drijven, organiseren' sem=''/>
 <word ref='Leuven|0554-001|40|6' id='6' form='οἱ' lemma='ὁ' postag='l-p---mn-' relation='ATR' head='7' gloss='1: ' sem=''/>
 <word ref='Leuven|0554-001|40|7' id='7' form='Συρακούσιοι' lemma='Συρακούσιος' postag='a-p---mn-' relation='SBJ' head='5' gloss='' sem='agent'/>
 <word ref='Leuven|0554-001|40|8' id='8' form='τῆς' lemma='ὁ' postag='l-s---fg-' relation='ATR' head='12' gloss='1: ' sem=''/>
@@ -1102,7 +1102,7 @@
 <word ref='Leuven|0554-001|61|23' id='23' form='πάντων' lemma='πᾶς' postag='a-p---ng-' relation='ATR' head='24' gloss='1: geheel | elk | alle' sem='totality'/>
 <word ref='Leuven|0554-001|61|24' id='24' form='χαλεπώτατον' lemma='χαλεπός' postag='a-s---nns' relation='ExD' head='29' gloss='difficult' sem=''/>
 <word ref='Leuven|0554-001|61|25' id='25' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' gloss='1: ' sem=''/>
-<word ref='Leuven|0554-001|61|26' id='26' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='29' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|61|26' id='26' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='29' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|61|27' id='27' form='ἀντεραστὰς' lemma='ἀντεραστής' postag='n-p---ma-' relation='OBJ' head='31' gloss='rival in love' sem='theme'/>
 <word ref='Leuven|0554-001|61|28' id='28' form='ἀλλήλους' lemma='ἀλλήλων' postag='p-p---ma-' relation='OBJ' head='29' gloss='1: elkaar' sem='theme'/>
 <word ref='Leuven|0554-001|61|29' id='29' form='ἐμισήσαμεν' lemma='μισέω' postag='v1paia---' relation='PRED_CO' head='20' gloss='1: haten, vervolgen' sem=''/>
@@ -1315,7 +1315,7 @@
 <word ref='Leuven|0554-001|74|9' id='9' form='τὸ' lemma='ὁ' postag='l-s---na-' relation='ATR' head='10' gloss='1: ' sem=''/>
 <word ref='Leuven|0554-001|74|10' id='10' form='ἔργον' lemma='ἔργον' postag='n-s---na-' relation='OBJ' head='11' gloss='1: werk, bezigheid, taak' sem='theme'/>
 <word ref='Leuven|0554-001|74|11' id='11' form='ἐνεχείρισαν' lemma='ἐγχειρίζω' postag='v3paia---' relation='PRED_CO' head='8' gloss='put into one`s hands, entrust' sem=''/>
-<word ref='Leuven|0554-001|74|12' id='12' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='11' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|74|12' id='12' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='11' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|74|13' id='13' form='ἀνδρὶ' lemma='ἀνήρ' postag='n-s---md-' relation='ADV' head='12' gloss='1: mens | volwassene | echtgenoot' sem='comparison?'/>
 <word ref='Leuven|0554-001|74|14' id='14' form='πᾶν' lemma='πᾶς' postag='a-s---na-' relation='OBJ' head='16' gloss='1: geheel | elk | alle' sem=''/>
 <word ref='Leuven|0554-001|74|15' id='15' form='ἱκανῷ' lemma='ἱκανός' postag='a-s---md-' relation='ATR' head='13' gloss='sufficing, becoming, befitting' sem=''/>
@@ -1958,7 +1958,7 @@
 <word ref='Leuven|0554-001|107|4' id='4' form='αὐτῷ' lemma='αὐτός' postag='p-s---md-' relation='OBJ' head='3' gloss='1: zelf | (in afhankelijke naamvallen) hem, haar, hen' sem='recipient'/>
 <word ref='Leuven|0554-001|107|5' id='5' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' head='6' gloss='1: ' sem=''/>
 <word ref='Leuven|0554-001|107|6' id='6' form='δεξιὰν' lemma='δεξιά' postag='n-s---fa-' relation='OBJ' head='3' gloss='right hand' sem='theme'/>
-<word ref='Leuven|0554-001|107|7' id='7' form='ἀπῆγεν' lemma='ἀπάγω' postag='v3siia---' relation='PRED_CO' head='46' gloss='1: wegvoeren, wegleiden  | aan land voeren' sem=''/>
+<word ref='Leuven|0554-001|107|7' id='7' form='ἀπῆγεν' lemma='ἀπάγω' postag='v3siia---' relation='PRED_CO' head='46' gloss='1: wegvoeren, wegleiden | aan land voeren' sem=''/>
 <word ref='Leuven|0554-001|107|8' id='8' form='εἴς' lemma='εἰς' postag='r--------' relation='AuxP' head='7' gloss='1: naar binnen | in | tot aan; tegen' sem=''/>
 <word ref='Leuven|0554-001|107|9' id='9' form='τι' lemma='τις' postag='p-s---na-' relation='ATR' head='10' gloss='1: wie?, welke?' sem='???'/>
 <word ref='Leuven|0554-001|107|10' id='10' form='χωρίον' lemma='χωρίον' postag='n-s---na-' relation='OBJ' head='8' gloss='1: (versterkte) plaats' sem='direction'/>
@@ -2052,7 +2052,7 @@
 <word ref='|0554-001|110|21' id='21' form='[0]' lemma='' postag='' relation='PRED_CO' head='8' gloss='' sem='' artificial='elliptic' insertion_id='0013e'/>
 </sentence>
 <sentence id='111' document_id='0554-001' Author='Chariton' subdoc='1.4.6' corrupt=''>
-<word ref='Leuven|0554-001|111|1' id='1' form='ὣς' lemma='ὡς' postag='d--------' relation='ADV' head='2' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem='manner'/>
+<word ref='Leuven|0554-001|111|1' id='1' form='ὣς' lemma='ὡς' postag='d--------' relation='ADV' head='2' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem='manner'/>
 <word ref='Leuven|0554-001|111|2' id='2' form='φάτο' lemma='φημί' postag='v3siie---' relation='PRED' head='0' gloss='1: beweren' sem=''/>
 <word ref='Leuven|0554-001|111|3' id='3' form='·' lemma='·' postag='u--------' relation='AuxK' head='0' gloss='1: ' sem=''/>
 </sentence>
@@ -2153,7 +2153,7 @@
 <word ref='Leuven|0554-001|117|3' id='3' form='``' lemma='``' postag='u--------' relation='AuxG' head='0' gloss='' sem=''/>
 <word ref='Leuven|0554-001|117|4' id='4' form='φησὶν' lemma='φημί' postag='v3spia---' relation='PRED' head='0' gloss='1: beweren' sem=''/>
 <word ref='Leuven|0554-001|117|5' id='5' form='``' lemma='``' postag='u--------' relation='AuxG' head='0' gloss='' sem=''/>
-<word ref='Leuven|0554-001|117|6' id='6' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxY' head='9' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|117|6' id='6' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxY' head='9' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|117|7' id='7' form='εἰς' lemma='εἰς' postag='r--------' relation='AuxP' head='9' gloss='1: naar binnen | in | tot aan; tegen' sem=''/>
 <word ref='Leuven|0554-001|117|8' id='8' form='ἀγρὸν' lemma='ἀγρός' postag='n-s---ma-' relation='OBJ' head='7' gloss='2: akker, veld' sem='direction'/>
 <word ref='Leuven|0554-001|117|9' id='9' form='ἀπιέναι' lemma='ἀπέρχομαι' postag='v--pna---' relation='OBJ' head='2' gloss='1: weggaan, vertrekken' sem='goal'/>
@@ -3351,7 +3351,7 @@
 <word ref='Leuven|0554-001|187|10' id='10' form='κατόπιν' lemma='κατόπιν' postag='d--------' relation='ADV' head='13' gloss='behind, after' sem=''/>
 <word ref='Leuven|0554-001|187|11' id='11' form='τοῦ' lemma='ὁ' postag='l-s---mg-' relation='ATR' head='12' gloss='1: ' sem=''/>
 <word ref='Leuven|0554-001|187|12' id='12' form='λιμένος' lemma='λιμήν' postag='n-s---mg-' relation='ADV' head='10' gloss='harbour' sem='location'/>
-<word ref='Leuven|0554-001|187|13' id='13' form='ἀπήγαγε' lemma='ἀπάγω' postag='v3saia---' relation='PRED_CO' head='14' gloss='1: wegvoeren, wegleiden  | aan land voeren' sem=''/>
+<word ref='Leuven|0554-001|187|13' id='13' form='ἀπήγαγε' lemma='ἀπάγω' postag='v3saia---' relation='PRED_CO' head='14' gloss='1: wegvoeren, wegleiden | aan land voeren' sem=''/>
 <word ref='Leuven|0554-001|187|14' id='14' form='καὶ' lemma='καί' postag='b--------' relation='COORD' head='0' gloss='1: en | ook, zelfs' sem=''/>
 <word ref='Leuven|0554-001|187|15' id='15' form='τούτων' lemma='οὗτος' postag='p-p---ng-' relation='ATR' head='18' gloss='1: die (daar)' sem=''/>
 <word ref='Leuven|0554-001|187|16' id='16' form='ἤρξατο' lemma='ἄρχω' postag='v3saim---' relation='PRED_CO' head='14' gloss='1: de eerste zijn --> vooropgaan; heersen | beginnen met iets' sem=''/>
@@ -3601,7 +3601,7 @@
 <word ref='Leuven|0554-001|200|16' id='16' form='ἐξ' lemma='ἐκ' postag='r--------' relation='AuxP' head='15' gloss='1: ' sem=''/>
 <word ref='Leuven|0554-001|200|17' id='17' form='ὕπνου' lemma='ὕπνος' postag='n-s---mg-' relation='ADV' head='16' gloss='1: slaap' sem='source'/>
 <word ref='Leuven|0554-001|200|18' id='18' form='καὶ' lemma='καί' postag='b--------' relation='COORD' head='0' gloss='1: en | ook, zelfs' sem=''/>
-<word ref='Leuven|0554-001|200|19' id='19' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxZ' head='20' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|200|19' id='19' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxZ' head='20' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|200|20' id='20' form='συγκαθεύδοντα' lemma='συγκαθεύδω' postag='v-sppama-' relation='ADV' head='21' gloss='sleep with' sem='samen slapen'/>
 <word ref='Leuven|0554-001|200|21' id='21' form='Χαιρέαν' lemma='Χαιρέας' postag='n-s---ma-' relation='OBJ' head='22' gloss='' sem='theme'/>
 <word ref='Leuven|0554-001|200|22' id='22' form='ἐκάλεσεν' lemma='καλέω' postag='v3saia---' relation='PRED_CO' head='18' gloss='1: (op/aan)roepen' sem=''/>
@@ -4590,7 +4590,7 @@
 <word ref='Leuven|0554-001|262|20' id='20' form='οὐκ' lemma='οὐ' postag='d--------' relation='AuxZ' head='21' gloss='1: niet' sem=''/>
 <word ref='Leuven|0554-001|262|21' id='21' form='ἀφήσει' lemma='ἀφίημι' postag='v3sfia---' relation='PRED' head='0' gloss='1: laten gaan, wegzenden | ophouden' sem=''/>
 <word ref='Leuven|0554-001|262|22' id='22' form='τυμβωρύχους' lemma='τυμβώρυχος' postag='n-p---ma-' relation='OBJ' head='21' gloss='grave-robber' sem='theme'/>
-<word ref='Leuven|0554-001|262|23' id='23' form='ἄγοντας' lemma='ἄγω' postag='v-pppama-' relation='ADV' head='22' gloss='1: voeren, brengen, leiden  | (be)drijven, organiseren' sem='concession'/>
+<word ref='Leuven|0554-001|262|23' id='23' form='ἄγοντας' lemma='ἄγω' postag='v-pppama-' relation='ADV' head='22' gloss='1: voeren, brengen, leiden | (be)drijven, organiseren' sem='concession'/>
 <word ref='Leuven|0554-001|262|24' id='24' form='καθ’' lemma='κατά' postag='r--------' relation='AuxP' head='23' gloss='1: van ... naar beneden; volgend, met ... mee; volgens; ten tijde van | neervallend van; tegen' sem=''/>
 <word ref='Leuven|0554-001|262|25' id='25' form='αὑτῶν' lemma='ἑαυτοῦ' postag='p-p---mg-' relation='ATR' head='24' gloss='1: zichzelf' sem='maleficiary'/>
 <word ref='Leuven|0554-001|262|26' id='26' form='τὸ' lemma='ὁ' postag='l-s---na-' relation='ATR' head='27' gloss='1: ' sem=''/>
@@ -4862,7 +4862,7 @@
 <word ref='Leuven|0554-001|283|12' id='12' form='καὶ' lemma='καί' postag='b--------' relation='AuxZ' head='13' gloss='1: en | ook, zelfs' sem=''/>
 <word ref='Leuven|0554-001|283|13' id='13' form='ἀνέλωσιν' lemma='ἀναιρέω' postag='v3pasa---' relation='OBJ' head='10' gloss='1: opnemen | uit de weg ruimen' sem='cause'/>
 <word ref='Leuven|0554-001|283|14' id='14' form='αὐτὴν' lemma='αὐτός' postag='p-s---fa-' relation='OBJ' head='13' gloss='1: zelf | (in afhankelijke naamvallen) hem, haar, hen' sem='patient'/>
-<word ref='Leuven|0554-001|283|15' id='15' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxY' head='16' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|283|15' id='15' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxY' head='16' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|283|16' id='16' form='ὀργιζομένην' lemma='ὀργίζω' postag='v-sppefa-' relation='ADV' head='14' gloss='make angry, provoke to anger, irritate' sem='cause'/>
 <word ref='Leuven|0554-001|283|17' id='17' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' gloss='1: ' sem=''/>
 </sentence>
@@ -4911,7 +4911,7 @@
 <sentence id='285' document_id='0554-001' Author='Chariton' subdoc='1.11.3' corrupt=''>
 <word ref='Leuven|0554-001|285|1' id='1' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' head='3' gloss='1: tegen, naar, tot op; tijdens | op; in de richting van; tijdens | bij, (volgend) op' sem=''/>
 <word ref='Leuven|0554-001|285|2' id='2' form='ξένην' lemma='ξένος' postag='a-s---fa-' relation='ATR' head='4' gloss='1: uitheems, vreemd' sem='property'/>
-<word ref='Leuven|0554-001|285|3' id='3' form='ἄγομαι' lemma='ἄγω' postag='v1spie---' relation='PRED_CO' head='5' gloss='1: voeren, brengen, leiden  | (be)drijven, organiseren' sem=''/>
+<word ref='Leuven|0554-001|285|3' id='3' form='ἄγομαι' lemma='ἄγω' postag='v1spie---' relation='PRED_CO' head='5' gloss='1: voeren, brengen, leiden | (be)drijven, organiseren' sem=''/>
 <word ref='Leuven|0554-001|285|4' id='4' form='γῆν' lemma='γῆ' postag='n-s---fa-' relation='OBJ' head='1' gloss='1: aarde | land' sem='direction'/>
 <word ref='Leuven|0554-001|285|5' id='5' form='καὶ' lemma='καί' postag='b--------' relation='COORD' head='0' gloss='1: en | ook, zelfs' sem=''/>
 <word ref='Leuven|0554-001|285|6' id='6' form='δουλεύειν' lemma='δουλεύω' postag='v--pna---' relation='SBJ' head='8' gloss='to be a slave' sem='theme'/>
@@ -5281,7 +5281,7 @@
 <word ref='Leuven|0554-001|310|8' id='8' form='ἐκ' lemma='ἐκ' postag='r--------' relation='AuxP' head='7' gloss='1: ' sem=''/>
 <word ref='Leuven|0554-001|310|9' id='9' form='φιλοκερδίας' lemma='φιλοκερδία' postag='n-s---fg-' relation='ADV_CO' head='8' gloss='' sem='cause'/>
 <word ref='Leuven|0554-001|310|10' id='10' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' gloss='1: ' sem=''/>
-<word ref='Leuven|0554-001|310|11' id='11' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='6' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|310|11' id='11' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='6' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|310|12' id='12' form='ἔμπορος' lemma='ἔμπορος' postag='n-s---mn-' relation='SBJ' head='17' gloss='one who goes on ship-board as a passenger' sem='agent'/>
 <word ref='Leuven|0554-001|310|13' id='13' form='μᾶλλον' lemma='μάλα' postag='d-------c' relation='ADV' head='17' gloss='1: zeer, veel' sem=''/>
 <word ref='Leuven|0554-001|310|14' id='14' form='ἢ' lemma='ἤ' postag='b--------' relation='AuxC' head='13' gloss='1: zeker | werkelijk (partikel in een directe vraag)' sem=''/>
@@ -5403,7 +5403,7 @@
 <word ref='Leuven|0554-001|317|9' id='9' form='ἐν' lemma='ἐν' postag='r--------' relation='AuxP' head='1' gloss='1: in, binnenin, temidden van' sem=''/>
 <word ref='Leuven|0554-001|317|10' id='10' form='ἐρημίᾳ' lemma='ἐρημία' postag='n-s---fd-' relation='ADV' head='9' gloss='a solitude, desert, wilderness' sem='location'/>
 <word ref='Leuven|0554-001|317|11' id='11' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' gloss='1: ' sem=''/>
-<word ref='Leuven|0554-001|317|12' id='12' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='1' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|317|12' id='12' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='1' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|317|13' id='13' form='μόνος' lemma='μόνος' postag='a-s---mn-' relation='ATR' head='14' gloss='1: alleen' sem='property'/>
 <word ref='Leuven|0554-001|317|14' id='14' form='λῃστής' lemma='λῃστής' postag='n-s---mn-' relation='PNOM' head='16' gloss='robber, pirate' sem=''/>
 <word ref='Leuven|0554-001|317|15' id='15' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' gloss='1: ' sem=''/>
@@ -6084,7 +6084,7 @@
 <word ref='Leuven|0554-001|353|6' id='6' form='τῆς' lemma='ὁ' postag='l-s---fg-' relation='ATR' head='7' gloss='1: ' sem='respect'/>
 <word ref='Leuven|0554-001|353|7' id='7' form='τύχης' lemma='τύχη' postag='n-s---fg-' relation='SBJ' head='9' gloss='1: toeval, lot' sem='agent'/>
 <word ref='Leuven|0554-001|353|8' id='8' form='ὑμᾶς' lemma='σύ' postag='p2p---ca-' relation='OBJ' head='9' gloss='1: jij, u' sem='theme'/>
-<word ref='Leuven|0554-001|353|9' id='9' form='ἀγούσης' lemma='ἄγω' postag='v-sppafg-' relation='ADV' head='13' gloss='1: voeren, brengen, leiden  | (be)drijven, organiseren' sem='cause'/>
+<word ref='Leuven|0554-001|353|9' id='9' form='ἀγούσης' lemma='ἄγω' postag='v-sppafg-' relation='ADV' head='13' gloss='1: voeren, brengen, leiden | (be)drijven, organiseren' sem='cause'/>
 <word ref='Leuven|0554-001|353|10' id='10' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' head='9' gloss='1: tegen, naar, tot op; tijdens | op; in de richting van; tijdens | bij, (volgend) op' sem=''/>
 <word ref='Leuven|0554-001|353|11' id='11' form='Διονύσιον' lemma='Διονύσιος' postag='n-s---ma-' relation='OBJ' head='10' gloss='' sem='direction'/>
 <word ref='Leuven|0554-001|353|12' id='12' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' gloss='1: ' sem=''/>
@@ -6156,7 +6156,7 @@
 <word ref='Leuven|0554-001|356|37' id='37' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' gloss='1: ' sem=''/>
 <word ref='Leuven|0554-001|356|38' id='38' form='κ-' lemma='καί' postag='b--------' relation='COORD' head='22' gloss='1: en | ook, zelfs' sem=''/>
 <word ref='Leuven|0554-001|356|39' id='39' form='ἐκεῖθεν' lemma='ἐκεῖθεν' postag='d--------' relation='ADV' head='40' gloss='from that place, thence' sem='source'/>
-<word ref='Leuven|0554-001|356|40' id='40' form='ἄξω' lemma='ἄγω' postag='v1sfia---' relation='OBJ_CO' head='38' gloss='1: voeren, brengen, leiden  | (be)drijven, organiseren' sem='theme'/>
+<word ref='Leuven|0554-001|356|40' id='40' form='ἄξω' lemma='ἄγω' postag='v1sfia---' relation='OBJ_CO' head='38' gloss='1: voeren, brengen, leiden | (be)drijven, organiseren' sem='theme'/>
 <word ref='Leuven|0554-001|356|41' id='41' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' head='42' gloss='1: ' sem='respect'/>
 <word ref='Leuven|0554-001|356|42' id='42' form='γυναῖκα' lemma='γυνή' postag='n-s---fa-' relation='OBJ' head='40' gloss='1: vrouw | echtgenote' sem='theme'/>
 <word ref='Leuven|0554-001|356|43' id='43' form='πρὸς' lemma='πρός' postag='r--------' relation='AuxP' head='40' gloss='1: vanwege, van de kant van | bij | naar, tegen; met betrekking tot' sem=''/>
@@ -6259,11 +6259,11 @@
 <word ref='Leuven|0554-001|361|14' id='14' form='πρὸς' lemma='πρός' postag='r--------' relation='AuxP' head='17' gloss='1: vanwege, van de kant van | bij | naar, tegen; met betrekking tot' sem=''/>
 <word ref='Leuven|0554-001|361|15' id='15' form='τοὺς' lemma='ὁ' postag='l-p---ma-' relation='ATR' head='16' gloss='1: ' sem='respect'/>
 <word ref='Leuven|0554-001|361|16' id='16' form='σοὺς' lemma='σός' postag='a-p---ma-' relation='OBJ' head='14' gloss='1: jouw' sem='direction'/>
-<word ref='Leuven|0554-001|361|17' id='17' form='ἀπαγαγεῖν' lemma='ἀπάγω' postag='v--ana---' relation='OBJ' head='12' gloss='1: wegvoeren, wegleiden  | aan land voeren' sem='goal'/>
+<word ref='Leuven|0554-001|361|17' id='17' form='ἀπαγαγεῖν' lemma='ἀπάγω' postag='v--ana---' relation='OBJ' head='12' gloss='1: wegvoeren, wegleiden | aan land voeren' sem='goal'/>
 <word ref='Leuven|0554-001|361|18' id='18' form='·' lemma='·' postag='u--------' relation='AuxK' head='0' gloss='1: ' sem=''/>
 </sentence>
 <sentence id='361' document_id='0554-001' Author='Chariton' subdoc='1.13.8' corrupt=''>
-<word ref='Leuven|0554-001|362|1' id='1' form='ἐναντίου' lemma='ἐναντίος' postag='a-s---mg-' relation='PNOM' head='4' gloss='1: gesitueerd tegenover | vijandig gezind  | tegengesteld aan, omgekeerd van' sem='result'/>
+<word ref='Leuven|0554-001|362|1' id='1' form='ἐναντίου' lemma='ἐναντίος' postag='a-s---mg-' relation='PNOM' head='4' gloss='1: gesitueerd tegenover | vijandig gezind | tegengesteld aan, omgekeerd van' sem='result'/>
 <word ref='Leuven|0554-001|362|2' id='2' form='δὲ' lemma='δέ' postag='b--------' relation='AuxY' head='5' gloss='1: en, echter (leidt een tegenstelling of een verbinding in, blijft vaak onvertaald)' sem=''/>
 <word ref='Leuven|0554-001|362|3' id='3' form='ἀνέμου' lemma='ἄνεμος' postag='n-s---mg-' relation='SBJ' head='4' gloss='wind' sem='theme'/>
 <word ref='Leuven|0554-001|362|4' id='4' form='γενομένου' lemma='γίγνομαι' postag='v-sapmmg-' relation='ADV' head='5' gloss='1: ontstaan, ter wereld komen | gebeuren, worden' sem='cause'/>
@@ -6297,7 +6297,7 @@
 <word ref='Leuven|0554-001|365|3' id='3' form='σε' lemma='σύ' postag='p2s---ca-' relation='OBJ' head='2' gloss='1: jij, u' sem='theme'/>
 <word ref='Leuven|0554-001|365|4' id='4' form='Χαιρέας' lemma='Χαιρέας' postag='n-s---mn-' relation='SBJ' head='2' gloss='' sem='experiencer'/>
 <word ref='Leuven|0554-001|365|5' id='5' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' gloss='1: ' sem=''/>
-<word ref='Leuven|0554-001|365|6' id='6' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='11' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|365|6' id='6' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='11' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|365|7' id='7' form='ἐκ' lemma='ἐκ' postag='r--------' relation='AuxP' head='6' gloss='1: ' sem=''/>
 <word ref='Leuven|0554-001|365|8' id='8' form='θαλάμου' lemma='θάλαμος' postag='n-s---mg-' relation='ADV' head='7' gloss='an inner room or chamber, surrounded by other buildings' sem='source'/>
 <word ref='Leuven|0554-001|365|9' id='9' form='τοῦ' lemma='ὁ' postag='l-s---mg-' relation='ATR' head='10' gloss='1: ' sem='respect'/>
@@ -6348,7 +6348,7 @@
 <word ref='Leuven|0554-001|367|13' id='13' form='μετὰ' lemma='μετά' postag='r--------' relation='AuxP' head='16' gloss='1: met | na' sem=''/>
 <word ref='Leuven|0554-001|367|14' id='14' form='πολλῆς' lemma='πολύς' postag='a-s---fg-' relation='ATR' head='15' gloss='1: talrijk' sem='degree'/>
 <word ref='Leuven|0554-001|367|15' id='15' form='ἐπιμελείας' lemma='ἐπιμέλεια' postag='n-s---fg-' relation='ADV' head='13' gloss='care bestowed upon' sem='manner'/>
-<word ref='Leuven|0554-001|367|16' id='16' form='ἄξω' lemma='ἄγω' postag='v1sfia---' relation='PRED_CO' head='12' gloss='1: voeren, brengen, leiden  | (be)drijven, organiseren' sem=''/>
+<word ref='Leuven|0554-001|367|16' id='16' form='ἄξω' lemma='ἄγω' postag='v1sfia---' relation='PRED_CO' head='12' gloss='1: voeren, brengen, leiden | (be)drijven, organiseren' sem=''/>
 <word ref='Leuven|0554-001|367|17' id='17' form='λοιπὸν' lemma='λοιπός' postag='a-s---na-' relation='ADV' head='16' gloss='1: overig' sem=''/>
 <word ref='Leuven|0554-001|367|18' id='18' form='εἰς' lemma='εἰς' postag='r--------' relation='AuxP' head='16' gloss='1: naar binnen | in | tot aan; tegen' sem=''/>
 <word ref='Leuven|0554-001|367|19' id='19' form='Συρακούσας' lemma='Συράκουσαι' postag='n-p---fa-' relation='OBJ' head='18' gloss='' sem='richting'/>
@@ -6482,7 +6482,7 @@
 <word ref='Leuven|0554-001|377|3' id='3' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' head='4' gloss='1: ' sem='respect'/>
 <word ref='Leuven|0554-001|377|4' id='4' form='κεφαλὴν' lemma='κεφαλή' postag='n-s---fa-' relation='OBJ' head='2' gloss='1: hoofd' sem='patient'/>
 <word ref='Leuven|0554-001|377|5' id='5' form='``' lemma='``' postag='u--------' relation='AuxG' head='0' gloss='' sem=''/>
-<word ref='Leuven|0554-001|377|6' id='6' form='ἄγε' lemma='ἄγω' postag='v2spma---' relation='OBJ' head='9' gloss='1: voeren, brengen, leiden  | (be)drijven, organiseren' sem='theme'/>
+<word ref='Leuven|0554-001|377|6' id='6' form='ἄγε' lemma='ἄγω' postag='v2spma---' relation='OBJ' head='9' gloss='1: voeren, brengen, leiden | (be)drijven, organiseren' sem='theme'/>
 <word ref='Leuven|0554-001|377|7' id='7' form='με' lemma='ἐγώ' postag='p1s---ca-' relation='OBJ' head='6' gloss='1: ik' sem='theme'/>
 <word ref='Leuven|0554-001|377|8' id='8' form='``' lemma='``' postag='u--------' relation='AuxG' head='0' gloss='' sem=''/>
 <word ref='Leuven|0554-001|377|9' id='9' form='φησίν' lemma='φημί' postag='v3spia---' relation='PRED' head='0' gloss='1: beweren' sem=''/>
@@ -6509,7 +6509,7 @@
 <word ref='Leuven|0554-001|378|10' id='10' form='[0]' lemma='' postag='' relation='PRED' head='0' gloss='' sem='' artificial='elliptic' insertion_id='0009e'/>
 </sentence>
 <sentence id='378' document_id='0554-001' Author='Chariton' subdoc='1.14.1' corrupt=''>
-<word ref='Leuven|0554-001|379|1' id='1' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='10' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|379|1' id='1' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='10' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|379|2' id='2' form='δὲ' lemma='δέ' postag='b--------' relation='AuxY' head='10' gloss='1: en, echter (leidt een tegenstelling of een verbinding in, blijft vaak onvertaald)' sem=''/>
 <word ref='Leuven|0554-001|379|3' id='3' form='πλησίον' lemma='πλησίον' postag='r--------' relation='AuxP' head='4' gloss='2: dichtbij' sem=''/>
 <word ref='Leuven|0554-001|379|4' id='4' form='ἐγένετο' lemma='γίγνομαι' postag='v3saim---' relation='ADV' head='1' gloss='1: ontstaan, ter wereld komen | gebeuren, worden' sem='time'/>
@@ -7005,7 +7005,7 @@
 <word ref='Leuven|0554-001|404|7' id='7' form='πόλιν' lemma='πόλις' postag='n-s---fa-' relation='OBJ' head='6' gloss='1: stad, staat' sem='direction'/>
 <word ref='Leuven|0554-001|404|8' id='8' form='ἠνέχθην' lemma='φέρω' postag='v1saip---' relation='PRED_CO' head='4' gloss='1: (ver)dragen' sem=''/>
 <word ref='Leuven|0554-001|404|9' id='9' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' gloss='1: ' sem=''/>
-<word ref='Leuven|0554-001|404|10' id='10' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='8' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|404|10' id='10' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='8' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|404|11' id='11' form='ἄλλη' lemma='ἄλλος' postag='p-s---fn-' relation='ATR' head='12' gloss='1: ander' sem='property'/>
 <word ref='Leuven|0554-001|404|12' id='12' form='τις' lemma='τις' postag='p-s---cn-' relation='SBJ' head='16' gloss='1: wie?, welke?' sem='theme'/>
 <word ref='Leuven|0554-001|404|13' id='13' form='τῶν' lemma='ὁ' postag='l-p---fg-' relation='ATR' head='14' gloss='1: ' sem=''/>
@@ -7030,7 +7030,7 @@
 <sentence id='405' document_id='0554-001' Author='Chariton' subdoc='1.14.9' corrupt=''>
 <word ref='Leuven|0554-001|406|1' id='1' form='διὰ' lemma='διά' postag='r--------' relation='AuxP' head='5' gloss='1: met de hulp van, wegens | doorheen, door | door middel van; via' sem=''/>
 <word ref='Leuven|0554-001|406|2' id='2' form='τοῦτο' lemma='οὗτος' postag='p-s---na-' relation='ADV' head='1' gloss='1: die (daar)' sem='cause'/>
-<word ref='Leuven|0554-001|406|3' id='3' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='5' gloss='1: zoals, zodra, omdat, opdat, zodat  | dat' sem=''/>
+<word ref='Leuven|0554-001|406|3' id='3' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' head='5' gloss='1: zoals, zodra, omdat, opdat, zodat | dat' sem=''/>
 <word ref='Leuven|0554-001|406|4' id='4' form='σκεῦος' lemma='σκεῦος' postag='n-s---na-' relation='ADV' head='3' gloss='vessel or implement of any kind' sem='comparison'/>
 <word ref='Leuven|0554-001|406|5' id='5' form='παρεδόθην' lemma='παραδίδωμι' postag='v1saip---' relation='PRED' head='0' gloss='give, hand over to another, transmit' sem=''/>
 <word ref='Leuven|0554-001|406|6' id='6' form='οὐκ' lemma='οὐ' postag='d--------' relation='AuxZ' head='7' gloss='1: niet' sem=''/>
