@@ -8426,7 +8426,7 @@
 <sentence id='318' document_id='0544-002' Author='Sextus Empiricus' subdoc='1,114' corrupt=''>
 <word ref='Leuven|0544-002|318|1' id='1' form='οἷς' lemma='ὅς' postag='p-p---nd-' relation='OBJ' head='5' gloss='' sem=''/>
 <word ref='Leuven|0544-002|318|2' id='2' form='τῶν' lemma='ὁ' postag='l-p---ng-' relation='ATR' head='4' gloss='' sem=''/>
-<word ref='Leuven|0544-002|318|3' id='3' form='δεκαεπτὰ' lemma='δεκαεπτὰ' postag='m-_---__-' relation='ATR' head='4' gloss='' sem=''/>
+<word ref='Leuven|0544-002|318|3' id='3' form='δεκαεπτὰ' lemma='δεκαεπτὰ' postag='m--------' relation='ATR' head='4' gloss='' sem=''/>
 <word ref='Leuven|0544-002|318|4' id='4' form='συμφώνων' lemma='σύμφωνος' postag='a-p---ng-' relation='SBJ' head='5' gloss=' () | (agreeing in sound, harmonious)' sem=''/>
 <word ref='Leuven|0544-002|318|5' id='5' form='προστιθεμένων' lemma='προστίθημι' postag='v-pppeng-' relation='ADV' head='7' gloss=' () | (put to)' sem=''/>
 <word ref='Leuven|0544-002|318|6' id='6' form='ἑξήκοντα' lemma='ἑξήκοντα' postag='m--------' relation='PNOM_CO' head='10' gloss=' () | (sixty)' sem=''/>

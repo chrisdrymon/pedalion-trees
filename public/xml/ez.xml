@@ -1462,7 +1462,7 @@
 <word ref='Leuven|0343-001|99|14' id='14' form='Αἰγύπτου' lemma='Αἴγυπτος' postag='n-s---fg-' relation='OBJ' head='16' gloss='' sem='source'/>
 <word ref='Leuven|0343-001|99|15' id='15' form='δ’' lemma='δέ' postag='b--------' relation='AuxY' head='18' gloss='1: en, echter (leidt een tegenstelling of een verbinding in, blijft vaak onvertaald)' sem=''/>
 <word ref='Leuven|0343-001|99|16' id='16' form='ἄπο' lemma='ἀπό' postag='r--------' relation='AuxP' head='18' gloss='1: van, vanaf; sinds' sem=''/>
-<word ref='Leuven|0343-001|99|17' id='17' form='ἕπτ’' lemma='ἕπτα' postag='m-_---__-' relation='ATR' head='20' gloss='' sem='manner'/>
+<word ref='Leuven|0343-001|99|17' id='17' form='ἕπτ’' lemma='ἕπτα' postag='m--------' relation='ATR' head='20' gloss='' sem='manner'/>
 <word ref='Leuven|0343-001|99|18' id='18' form='ἦτ’' lemma='εἰμί' postag='v2piia---' relation='ADV' head='8' gloss='1: gaan' sem='time'/>
 <word ref='Leuven|0343-001|99|19' id='19' form='ὁδοιποροῦντες' lemma='ὁδοιπορέω' postag='v-pppamn-' relation='ADV' head='18' gloss='walk' sem='manner'/>
 <word ref='Leuven|0343-001|99|20' id='20' form='ἡμέρας' lemma='ἡμέρα' postag='n-s---fg-' relation='ADV' head='18' gloss='1: dag' sem='duration'/>
@@ -1601,7 +1601,7 @@
 <word ref='Leuven|0343-001|106|4' id='4' form='δεσπότῃ' lemma='δεσπότης' postag='n-s---md-' relation='OBJ' head='5' gloss='1: heer des huizes | heerser | bezitter' sem='beneficiary'/>
 <word ref='Leuven|0343-001|106|5' id='5' form='τηρήσετε' lemma='τηρέω' postag='v2pfia---' relation='PRED_CO' head='6' gloss='watch over, take care of, guard' sem=''/>
 <word ref='Leuven|0343-001|106|6' id='6' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' gloss='1: ' sem=''/>
-<word ref='Leuven|0343-001|106|7' id='7' form='ἕφθ’' lemma='ἑπτά' postag='m-_---__-' relation='ATR' head='8' gloss='seven' sem=''/>
+<word ref='Leuven|0343-001|106|7' id='7' form='ἕφθ’' lemma='ἑπτά' postag='m--------' relation='ATR' head='8' gloss='seven' sem=''/>
 <word ref='Leuven|0343-001|106|8' id='8' form='ἡμέρας' lemma='ἡμέρα' postag='n-p---fa-' relation='ADV' head='11' gloss='1: dag' sem='duration'/>
 <word ref='Leuven|0343-001|106|9' id='9' form='ἄζυμα' lemma='ἄζυμος' postag='a-p---na-' relation='OBJ' head='11' gloss='without process of fermentation' sem='patient'/>
 <word ref='Leuven|0343-001|106|10' id='10' form='·' lemma='·' postag='u--------' relation='AuxK' head='0' gloss='1: ' sem=''/>
@@ -2098,7 +2098,7 @@
 <word ref='Leuven|0343-001|140|4' id='4' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' gloss='1: ' sem=''/>
 <word ref='Leuven|0343-001|140|5' id='5' form='πηγὰς' lemma='πηγή' postag='n-p---fa-' relation='OBJ' head='6' gloss='running water' sem='theme'/>
 <word ref='Leuven|0343-001|140|6' id='6' form='ἀφύσσων' lemma='ἀφύσσω' postag='v-sppamn-' relation='PNOM' head='30' gloss='draw' sem='attribute'/>
-<word ref='Leuven|0343-001|140|7' id='7' form='δώδεκ’' lemma='δώδεκα' postag='m-_---__-' relation='ATR' head='5' gloss='1: twaalf' sem=''/>
+<word ref='Leuven|0343-001|140|7' id='7' form='δώδεκ’' lemma='δώδεκα' postag='m--------' relation='ATR' head='5' gloss='1: twaalf' sem=''/>
 <word ref='Leuven|0343-001|140|8' id='8' form='ἐκ' lemma='ἐκ' postag='r--------' relation='AuxP' head='6' gloss='1: ' sem=''/>
 <word ref='Leuven|0343-001|140|9' id='9' form='μιᾶς' lemma='εἷς' postag='m-s---fg-' relation='ATR' head='10' gloss='1: naar binnen | in | tot aan; tegen' sem=''/>
 <word ref='Leuven|0343-001|140|10' id='10' form='πέτρας' lemma='πέτρα' postag='n-s---fg-' relation='OBJ' head='8' gloss='1: rots' sem='source'/>
