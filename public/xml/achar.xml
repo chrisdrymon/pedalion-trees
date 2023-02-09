@@ -1540,7 +1540,7 @@
 <sentence id='135' document_id='0019-001' Author='Aristophanes' subdoc='155' corrupt=''>
 <word ref='Leuven|0019-001|135|1' id='1' form='ὦ' lemma='ὦ' postag='i--------' relation='AuxZ' head='2' gloss='1: (blijft onvertaald)' sem=''/>
 <word ref='Leuven|0019-001|135|2' id='2' form='μόχθηρε' lemma='μοχθηρός' postag='a-s---mv-' relation='ExD' head='6' gloss='suffering hardship, in sore distress, wretched' sem=''/>
-<word ref='Leuven|0019-001|135|3' id='3' form='σὺ' lemma='σύ' postag='p-s---_n-' relation='SBJ' head='6' gloss='1: jij, u' sem=''/>
+<word ref='Leuven|0019-001|135|3' id='3' form='σὺ' lemma='σύ' postag='p-s---cn-' relation='SBJ' head='6' gloss='1: jij, u' sem=''/>
 <word ref='Leuven|0019-001|135|4' id='4' form='οὐ' lemma='οὐ' postag='d--------' relation='AuxZ' head='6' gloss='1: niet' sem=''/>
 <word ref='Leuven|0019-001|135|5' id='5' form='μὴ' lemma='μή' postag='d--------' relation='AuxZ' head='6' gloss='1: niet' sem=''/>
 <word ref='Leuven|0019-001|135|6' id='6' form='πρόσει' lemma='πρόσειμι' postag='v2spia---' relation='PRED' head='0' gloss='1: naderbij komen, naderen' sem=''/>
@@ -8922,7 +8922,7 @@
 <word ref='Leuven|0019-001|754|34' id='34' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' gloss='1: ' sem=''/>
 <word ref='Leuven|0019-001|754|35' id='35' form='ὥστ’' lemma='ὥστε' postag='c--------' relation='AuxC' head='6' gloss='1: zodat | zoals' sem=''/>
 <word ref='Leuven|0019-001|754|36' id='36' form='ἀλείφεσθαί' lemma='ἀλείφω' postag='v--pne---' relation='ADV' head='35' gloss='anoint the skin with oil' sem='Goal'/>
-<word ref='Leuven|0019-001|754|37' id='37' form='σ’' lemma='σύ' postag='p-s---_a-' relation='SBJ_CO' head='40' gloss='1: jij, u' sem=''/>
+<word ref='Leuven|0019-001|754|37' id='37' form='σ’' lemma='σύ' postag='p-s---ca-' relation='SBJ_CO' head='40' gloss='1: jij, u' sem=''/>
 <word ref='Leuven|0019-001|754|38' id='38' form='ἀπ’' lemma='ἀπό' postag='r--------' relation='AuxP' head='36' gloss='1: van, vanaf; sinds' sem=''/>
 <word ref='Leuven|0019-001|754|39' id='39' form='αὐτῶν' lemma='αὐτός' postag='p-p---fg-' relation='ADV' head='38' gloss='1: zelf | (in afhankelijke naamvallen) hem, haar, hen' sem='material'/>
 <word ref='Leuven|0019-001|754|40' id='40' form='κ-' lemma='καί' postag='b--------' relation='COORD' head='36' gloss='1: en | ook, zelfs' sem=''/>
