@@ -9127,7 +9127,7 @@
 <word ref='Leuven|0019-008|794|1' id='1' form='πέρ’' lemma='πέρ’' postag='d--------' relation='AuxY' head='3' sem=''/>
 <word ref='Leuven|0019-008|794|2' id='2' form='ἐγὼ' lemma='ἐγώ' postag='p1s---cn-' relation='SBJ' head='7' sem=''/>
 <word ref='Leuven|0019-008|794|3' id='3' form='’ξινίγκι' lemma='ἐκφέρω' postag='v1sfia---' relation='PRED' head='0' sem=''/>
-<word ref='Leuven|0019-008|794|4' id='4' form='πορμός' lemma='πορμός' postag='n-s---_a-' relation='OBJ' head='3' sem=''/>
+<word ref='Leuven|0019-008|794|4' id='4' form='πορμός' lemma='πορμός' postag='n-s---ma-' relation='OBJ' head='3' sem=''/>
 <word ref='Leuven|0019-008|794|5' id='5' form=',' lemma=',' postag='u--------' relation='AuxX' head='0' sem=''/>
 <word ref='Leuven|0019-008|794|6' id='6' form='ἴνα' lemma='ἴνα' postag='c--------' relation='AuxC' head='3' sem=''/>
 <word ref='Leuven|0019-008|794|7' id='7' form='πυλάξι' lemma='φυλάσσω' postag='v1sasa---' relation='ADV' head='6' sem='goal'/>

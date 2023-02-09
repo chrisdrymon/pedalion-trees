@@ -606,7 +606,7 @@
 <word ref='Leuven|0019-001|46|3' id='3' form='[0]' lemma='' postag='' relation='PRED' head='0' gloss='' sem='' artificial='elliptic' insertion_id='0002e'/>
 </sentence>
 <sentence id='47' document_id='0019-001' Author='Aristophanes' subdoc='60' corrupt=''>
-<word ref='Leuven|0019-001|47|1' id='1' form='ὦκβάτανα' lemma='Ἐκβάτανα' postag='n-s---_n-' relation='ExD' head='5' gloss='' sem=''/>
+<word ref='Leuven|0019-001|47|1' id='1' form='ὦκβάτανα' lemma='Ἐκβάτανα' postag='n-s---fn-' relation='ExD' head='5' gloss='' sem=''/>
 <word ref='Leuven|0019-001|47|2' id='2' form='τοῦ' lemma='ὁ' postag='l-s---ng-' relation='ATR' head='3' gloss='1: ' sem=''/>
 <word ref='Leuven|0019-001|47|3' id='3' form='σχήματος' lemma='σχῆμα' postag='n-s---ng-' relation='ExD' head='5' gloss='1: vorm, voorkomen | rol, karakter' sem='exclamation'/>
 <word ref='Leuven|0019-001|47|4' id='4' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' gloss='1: ' sem=''/>
