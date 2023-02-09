@@ -7449,7 +7449,7 @@
 <word ref='Leuven|0019-001|637|7' id='7' form='ἀρχὰ' lemma='ἀρχή' postag='n-s---fn-' relation='SBJ' head='11' gloss='1: begin | beginsel, principe | heerschappij | functie, magistratuur' sem=''/>
 <word ref='Leuven|0019-001|637|8' id='8' form='τῶν' lemma='ὁ' postag='l-p---ng-' relation='ATR' head='9' gloss='1: ' sem=''/>
 <word ref='Leuven|0019-001|637|9' id='9' form='κακῶν' lemma='κακός' postag='a-p---ng-' relation='ATR' head='7' gloss='1: slecht, boos, gemeen' sem='totality'/>
-<word ref='Leuven|0019-001|637|10' id='10' form='ἁμῖν' lemma='ἐγώ' postag='p-p---_d-' relation='ADV' head='11' gloss='1: ik' sem='beneficiary'/>
+<word ref='Leuven|0019-001|637|10' id='10' form='ἁμῖν' lemma='ἐγώ' postag='p-p---cd-' relation='ADV' head='11' gloss='1: ik' sem='beneficiary'/>
 <word ref='Leuven|0019-001|637|11' id='11' form='ἔφυ' lemma='φύω' postag='v3saia---' relation='SBJ' head='4' gloss='1: doen groeien, voortbrengen, produceren | ontstaan, groeien' sem=''/>
 <word ref='Leuven|0019-001|637|12' id='12' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' gloss='1: ' sem=''/>
 <word ref='Leuven|0019-001|637|13' id='13' form='[0]' lemma='' postag='' relation='PRED_CO' head='3' gloss='' sem='' artificial='elliptic' insertion_id='0012e'/>
