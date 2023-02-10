@@ -10729,7 +10729,7 @@
 <word ref='Leuven|0006-003|759|21' id='22' form='ἔτλης' lemma='τλάω' postag='v2saia---' relation='ATR' head='7' sem=''/>
 <word ref='Leuven|0006-003|759|22' id='23' form='τεκοῦσα' lemma='τίκτω' postag='v-sapafn-' relation='ADV_CO' head='24' sem=''/>
 <word ref='Leuven|0006-003|759|23' id='24' form='κ-' lemma='καί' postag='b--------' relation='COORD' head='22' sem=''/>
-<word ref='Leuven|0006-003|759|23b' id='25' form='ἔμ’' lemma='ἐγώ' postag='p-s---m_-' relation='OBJ' head='27' sem=''/>
+<word ref='Leuven|0006-003|759|23b' id='25' form='ἔμ’' lemma='ἐγώ' postag='p-s---ma-' relation='OBJ' head='27' sem=''/>
 <word ref='Leuven|0006-003|759|24' id='26' form='ἄπαιδ’' lemma='ἄπαις' postag='a-s---ma_' relation='ATR' head='27' sem=''/>
 <word ref='Leuven|0006-003|759|25' id='27' form='ἀπώλεσας' lemma='ἀπόλλυμι' postag='v2saia---' relation='ADV_CO' head='24' sem=''/>
 <word ref='Leuven|0006-003|759|26' id='28' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' sem=''/>
