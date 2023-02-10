@@ -1793,7 +1793,7 @@
 <word ref='Leuven|0006-003|121|7' id='8' form='κακόν' lemma='κακός' postag='a-s---na-' relation='OBJ_CO' head='10' sem=''/>
 <word ref='Leuven|0006-003|121|8' id='9' form='λαβεῖν' lemma='λαμβάνω' postag='v--ana---' relation='SBJ' head='13' sem=''/>
 <word ref='Leuven|0006-003|121|9' id='10' form='ἤ' lemma='ἤ' postag='b--------' relation='COORD' head='9' sem=''/>
-<word ref='Leuven|0006-003|121|10' id='11' form='χρηστόν' lemma='χρηστός' postag='a-s---ma_' relation='OBJ_CO' head='10' sem=''/>
+<word ref='Leuven|0006-003|121|10' id='11' form='χρηστόν' lemma='χρηστός' postag='a-s---ma-' relation='OBJ_CO' head='10' sem=''/>
 <word ref='Leuven|0006-003|121|11' id='12' form='·' lemma='·' postag='u--------' relation='AuxK' head='0' sem=''/>
 <word ref='Leuven|0006-003|121|12' id='13' form='[0]' lemma='' postag='' relation='PRED' head='0' sem='' artificial='elliptic' insertion_id='0001e'/>
 </sentence>
@@ -2029,8 +2029,8 @@
 <sentence id='133' document_id='0006-003' Author='Euripides' subdoc='' corrupt=''>
 <word ref='Leuven|0006-003|133|1' id='1' form='γυνή' lemma='γυνή' postag='n-s---fn-' relation='SBJ' head='9' sem=''/>
 <word ref='Leuven|0006-003|133|2' id='2' form='γάρ' lemma='γάρ' postag='d--------' relation='AuxY' head='9' sem=''/>
-<word ref='Leuven|0006-003|133|3' id='3' form='τ-' lemma='ὁ' postag='l-p---na_' relation='ATR' head='4' sem=''/>
-<word ref='Leuven|0006-003|133|3b' id='4' form='ἄλλα' lemma='ἄλλος' postag='a-p---na_' relation='ADV' head='16' sem=''/>
+<word ref='Leuven|0006-003|133|3' id='3' form='τ-' lemma='ὁ' postag='l-p---na-' relation='ATR' head='4' sem=''/>
+<word ref='Leuven|0006-003|133|3b' id='4' form='ἄλλα' lemma='ἄλλος' postag='a-p---na-' relation='ADV' head='16' sem=''/>
 <word ref='Leuven|0006-003|133|4' id='5' form='μέν' lemma='μέν' postag='d--------' relation='AuxY' head='16' sem=''/>
 <word ref='Leuven|0006-003|133|5' id='6' form='φόβου' lemma='φόβος' postag='n-s---mg-' relation='ADV' head='7' sem=''/>
 <word ref='Leuven|0006-003|133|6' id='7' form='πλέα' lemma='πλέως' postag='a-s---fn-' relation='PNOM' head='16' sem=''/>
@@ -6434,7 +6434,7 @@
 <word ref='Leuven|0006-003|458|25' id='26' form='εἶναι' lemma='εἰμί' postag='v--pna---' relation='OBJ_CO' head='24' sem=''/>
 <word ref='Leuven|0006-003|458|26' id='27' form='καί' lemma='καί' postag='b--------' relation='COORD' head='26' sem=''/>
 <word ref='Leuven|0006-003|458|27' id='28' form='καλῶς' lemma='καλός' postag='d--------' relation='ADV' head='29' sem=''/>
-<word ref='Leuven|0006-003|458|28' id='29' form='ἐγνωσμένα' lemma='γιγνώσκω' postag='v-prpena_' relation='PNOM_CO' head='27' sem=''/>
+<word ref='Leuven|0006-003|458|28' id='29' form='ἐγνωσμένα' lemma='γιγνώσκω' postag='v-prpena-' relation='PNOM_CO' head='27' sem=''/>
 <word ref='Leuven|0006-003|458|29' id='30' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' sem=''/>
 </sentence>
 <sentence id='459' document_id='0006-003' Author='Euripides' subdoc='' corrupt=''>
@@ -10730,7 +10730,7 @@
 <word ref='Leuven|0006-003|759|22' id='23' form='τεκοῦσα' lemma='τίκτω' postag='v-sapafn-' relation='ADV_CO' head='24' sem=''/>
 <word ref='Leuven|0006-003|759|23' id='24' form='κ-' lemma='καί' postag='b--------' relation='COORD' head='22' sem=''/>
 <word ref='Leuven|0006-003|759|23b' id='25' form='ἔμ’' lemma='ἐγώ' postag='p-s---ma-' relation='OBJ' head='27' sem=''/>
-<word ref='Leuven|0006-003|759|24' id='26' form='ἄπαιδ’' lemma='ἄπαις' postag='a-s---ma_' relation='ATR' head='27' sem=''/>
+<word ref='Leuven|0006-003|759|24' id='26' form='ἄπαιδ’' lemma='ἄπαις' postag='a-s---ma-' relation='ATR' head='27' sem=''/>
 <word ref='Leuven|0006-003|759|25' id='27' form='ἀπώλεσας' lemma='ἀπόλλυμι' postag='v2saia---' relation='ADV_CO' head='24' sem=''/>
 <word ref='Leuven|0006-003|759|26' id='28' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' sem=''/>
 </sentence>

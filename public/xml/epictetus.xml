@@ -4544,7 +4544,7 @@
 <word ref='Leuven|0557-001|299|13' id='13' form='καί' lemma='καί' postag='c--------' relation='COORD' head='15' gloss='' sem=''/>
 <word ref='Leuven|0557-001|299|14' id='14' form='ὀχεύειν' lemma='ὀχεύω' postag='v--pna---' relation='SBJ_CO' head='13' gloss=' () | (cover)' sem=''/>
 <word ref='Leuven|0557-001|299|15' id='15' form='καί' lemma='καί' postag='c--------' relation='COORD' head='5' gloss='' sem=''/>
-<word ref='Leuven|0557-001|299|16' id='16' form='τἆλλʼ' lemma='ἄλλος' postag='a-p---nn_' relation='SBJ_CO' head='15' gloss='' sem=''/>
+<word ref='Leuven|0557-001|299|16' id='16' form='τἆλλʼ' lemma='ἄλλος' postag='a-p---nn-' relation='SBJ_CO' head='15' gloss='' sem=''/>
 <word ref='Leuven|0557-001|299|17' id='17' form='ὅσα' lemma='ὅσος' postag='p-p---na-' relation='OBJ' head='18' gloss='' sem=''/>
 <word ref='Leuven|0557-001|299|18' id='18' form='ἐπιτελεῖ' lemma='ἐπιτελέω' postag='v3spia---' relation='ATR' head='16' gloss=' () | (complete, finish, accomplish)' sem=''/>
 <word ref='Leuven|0557-001|299|19' id='19' form='τῶν' lemma='ὁ' postag='l-p---ng-' relation='ATR' head='20' gloss='' sem=''/>

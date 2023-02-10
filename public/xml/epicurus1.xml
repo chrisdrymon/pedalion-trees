@@ -665,7 +665,7 @@
 <word ref='Leuven|0537-012|33|12' id='12' form=',' lemma='' postag='' relation='AuxX' head='0' sem=''/>
 <word ref='Leuven|0537-012|33|13' id='13' form='φύντα' lemma='φύω' postag='v-sapama-' relation='SBJ' head='19' sem=''/>
 <word ref='Leuven|0537-012|33|14' id='14' form='δʼ' lemma='δέ' postag='d--------' relation='COORD' head='22' sem=''/>
-<word ref='Leuven|0537-012|33|15' id='15' form='ὅπως' lemma='ὅπως' postag='d-------_' relation='ADV' head='16' sem=''/>
+<word ref='Leuven|0537-012|33|15' id='15' form='ὅπως' lemma='ὅπως' postag='d--------' relation='ADV' head='16' sem=''/>
 <word ref='Leuven|0537-012|33|16' id='16' form='ὤκιστα' lemma='ὠκύς' postag='d-------s' relation='ADV' head='19' sem=''/>
 <word ref='Leuven|0537-012|33|17' id='17' form='πύλας' lemma='πύλη' postag='n-p---fa-' relation='OBJ' head='19' sem=''/>
 <word ref='Leuven|0537-012|33|18' id='18' form='Ἀΐδαο' lemma='ᾍδης' postag='n-s---mg-' relation='ATR' head='17' sem=''/>

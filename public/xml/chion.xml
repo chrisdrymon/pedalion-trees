@@ -1041,7 +1041,7 @@
 <word ref='Leuven|0041-001|42|29' id='29' form='ταῦτα' lemma='οὗτος' postag='p-p---na-' relation='OBJ' head='28' sem=''/>
 <word ref='Leuven|0041-001|42|30' id='30' form='πάντα' lemma='πᾶς' postag='a-p---na-' relation='ATR' head='29' sem=''/>
 <word ref='Leuven|0041-001|42|31' id='31' form='ὥσπερ' lemma='ὥσπερ' postag='c--------' relation='AuxC' head='38' sem=''/>
-<word ref='Leuven|0041-001|42|32' id='32' form='ἐπιλήσμονί' lemma='ἐπιλήσμων' postag='a-s---fd_' relation='ATR' head='34' sem=''/>
+<word ref='Leuven|0041-001|42|32' id='32' form='ἐπιλήσμονί' lemma='ἐπιλήσμων' postag='a-s---fd-' relation='ATR' head='34' sem=''/>
 <word ref='Leuven|0041-001|42|33' id='33' form='τινι' lemma='τις' postag='p-s---cd-' relation='ATR' head='34' sem=''/>
 <word ref='Leuven|0041-001|42|34' id='34' form='ἐπῳδῇ' lemma='ἐπῳδή' postag='n-s---fd-' relation='OBJ' head='42' sem='agent'/>
 <word ref='Leuven|0041-001|42|35' id='35' form='παντὸς' lemma='πᾶς' postag='a-s---ng-' relation='ATR' head='36' sem=''/>
