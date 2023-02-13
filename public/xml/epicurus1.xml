@@ -547,7 +547,7 @@
 <word ref='Leuven|0537-012|28|19' id='19' form='ἐν' lemma='ἐν' postag='r--------' relation='AuxP' head='22' sem=''/>
 <word ref='Leuven|0537-012|28|20' id='20' form='τῷ' lemma='ὁ' postag='l-s---nd-' relation='ATR' head='21' sem=''/>
 <word ref='Leuven|0537-012|28|21' id='21' form='ζῆν' lemma='ζάω' postag='v--pna---' relation='ATR' head='19' sem=''/>
-<word ref='Leuven|0537-012|28|22' id='22' form='κακῶv' lemma='κακός' postag='a-p---ngp' relation='ATR' head='17' sem=''/>
+<word ref='Leuven|0537-012|28|22' id='22' form='κακῶν' lemma='κακός' postag='a-p---ngp' relation='ATR' head='17' sem=''/>
 <word ref='Leuven|0537-012|28|23' id='23' form='αἱροῦνται' lemma='αἱρέω' postag='v3ppie---' relation='PRED_CO' head='15' sem=''/>
 <word ref='Leuven|0537-012|28|24' id='24' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' sem=''/>
 </sentence>
