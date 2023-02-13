@@ -4599,7 +4599,7 @@
 <sentence id='318' document_id='27112' Author='' subdoc='' corrupt=''>
 <word ref='Leuven|27112|13|1' id='1' form='ἄσπασαι' lemma='ἀσπάζομαι' postag='v2samm---' relation='PRED_CO' head='2' sem=''/>
 <word ref='Leuven|27112|13|2' id='2' form='G' lemma='G' postag='b--------' relation='COORD' head='0' sem=''/>
-<word ref='Leuven|27112|13|3' id='3' form='ἐρρωσθ…' lemma='ῥώννυμι' postag='v2prme---' relation='PRED_CO' head='2' sem=''/>
+<word ref='Leuven|27112|13|3' id='3' form='ἐρρωσθ...' lemma='ῥώννυμι' postag='v2prme---' relation='PRED_CO' head='2' sem=''/>
 <word ref='Leuven|27112|13|4' id='4' form='.' lemma='.' postag='u--------' relation='AuxK' head='0' sem=''/>
 </sentence>
 <sentence id='319' document_id='27112' Author='' subdoc='' corrupt=''>
